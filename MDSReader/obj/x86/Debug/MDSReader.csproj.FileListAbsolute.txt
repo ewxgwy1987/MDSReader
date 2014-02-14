@@ -1,0 +1,13 @@
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.csproj.ResolveComReference.cache
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.csprojResolveAssemblyReference.cache
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.Form1.resources
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.Properties.Resources.resources
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.csproj.GenerateResource.Cache
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\MDSReader.exe.config
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\MDSReader.exe
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\MDSReader.pdb
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\log4net.dll
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\PALS.Configure.dll
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\bin\Debug\PALS.dll
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.exe
+D:\1Pteris Global Ltd\GWY_DEV\MDSReader\MDSReader\obj\x86\Debug\MDSReader.pdb
